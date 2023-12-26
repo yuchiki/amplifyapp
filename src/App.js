@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          この上のくるくる回っているロゴが手書きできなくていつも困っている
+          この上にあるくるくる回っているロゴが手書きできなくていつも困っている
         </p>
       </header>
     </div>
